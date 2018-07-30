@@ -11,3 +11,6 @@ If you're using i3status with py3status already:
 
 ## Notes
 The module creates a file called .olkb.cache into a hardcoded location at `$HOME/.i3/py3status/.olkb.cache` to store the last-seen order position. You can change that manually if required.
+
+## Screenshot
+![Screenshot](img/screenshot.png "Screenshot")
